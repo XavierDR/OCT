@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Aug 06 15:52:46 2015
+
+@author: oct
+"""
+
+class TestHaha():
+    def __init__(self):
+        print("hahah")
